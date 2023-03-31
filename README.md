@@ -1,4 +1,8 @@
-### Hi there 👋
+<div align="center">
+   <a href="#" target="_blank">
+      <img src="/github-metrics.svg" target="_blank">
+   </a>
+</div>
 
 <!--
 **nacknime-official/nacknime-official** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
